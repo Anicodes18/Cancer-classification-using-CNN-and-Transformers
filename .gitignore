@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Models
+*.pth
+*.pt
+models/
+
+# TensorBoard
+runs/
+
+# Data
+data/
+datasets/
+
+# Environment
+.env
+venv/
+
+# System
+.DS_Store
